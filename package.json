@@ -1,0 +1,23 @@
+{
+  "name": "data_structures_algorithms",
+  "version": "1.0.0",
+  "description": "_with testing_",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranbanger/data_structures_algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranbanger/data_structures_algorithms/issues"
+  },
+  "homepage": "https://github.com/kiranbanger/data_structures_algorithms#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
